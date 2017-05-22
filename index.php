@@ -144,7 +144,7 @@ $stations = array(
                                 <a href='index.php?action=play'>Play</a> | <a href='index.php?action=stop'>Stop</a> | <a href='index.php?action=shutdown'>Shutdown</a> 
                             </p>
                         </header>
-                        <p><img src="<?php echo $randomCat; ?>" style="max-width:450px;" /><br>Pixabay-Cats (CC0 license)</p>
+                        <p><img src="<?php echo $randomCat; ?>" style="max-width:450px; width:100%;" /><br>Pixabay-Cats (CC0 license)</p>
 
                         <h2>Stations</h2>
                         <ul>
