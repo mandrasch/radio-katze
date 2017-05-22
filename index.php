@@ -27,7 +27,7 @@ $stations = array(
     'FM4' => 'http://mp3stream1.apasf.apa.at',
     'Detektor FM Musik' => 'http://stream.hoerradar.de/detektorfm-musik-mp3-128',
     'Fritz' => 'http://www.fritz.de/live.m3u',
-	'Deutschlandradio Wissen' => 'http://www.dradio.de/streaming/dradiowissen_hq_ogg.m3u',
+	'Deutschlandradio Wissen' => 'http://www.dradio.de/streaming/dradiowissen_hq_ogg.m3u'
     );
 
     // 2DO string validation actions
