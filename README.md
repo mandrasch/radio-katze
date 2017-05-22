@@ -1,5 +1,5 @@
 # radio-katze
-internet radio script for music player daemon (tested with raspberry pi)
+internet radio script for music player daemon (tested with raspberry pi), powered by php
 
 Disclaimer: Quick & dirty php script, very (very) simple approach. ;-)
 
