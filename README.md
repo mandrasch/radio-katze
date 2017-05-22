@@ -1,5 +1,7 @@
 # radio-katze
-internet radio script for music player daemon (tested with raspberry pi), powered by php
+internet radioplayer script for music player daemon (tested with raspberrypi v2), powered by php and can be used via html5 webinterface
+
+![Screenshot](screenshot.png)
 
 Disclaimer: Quick & dirty php script, very (very) simple approach. ;-)
 
@@ -13,14 +15,25 @@ Disclaimer: Quick & dirty php script, very (very) simple approach. ;-)
 6. visit http://IP-OF-YOUR-RASPBERRYPI/radio-katze/
 7. enjoy!
 
+Right now adding stations is only possible in the source code (see array stations)
+
 ## license
 
 * This simple script is free for any use under MIT license
 * MPD control via SimpleMPDWrapper by mutantlabs (https://github.com/mutantlabs/SimpleMPDWrapper), MIT license
 * HTML5Up theme under CC BY 3.0 Unported http://creativecommons.org/licenses/by/3.0/, https://html5up.net/
 * Cat pics from Pixabay.com under CC0 Public domain license - thanks to all cats and photographers! <3
-
-https://pixabay.com/de/cat-tiere-haustier-rest-haustiere-56753/
+  * https://pixabay.com/de/cat-tiere-haustier-rest-haustiere-56753/
+  * https://pixabay.com/de/ausschreibung-niedliche-tier-2119828/
+  * https://pixabay.com/de/fotomanipulation-cat-photoshop-1078993/
+  * https://pixabay.com/de/k%C3%A4tzchen-katze-flauschige-katze-227009/
+  * https://pixabay.com/de/katze-nacht-rodeur-nacht-fiel-2194707/
+  * https://pixabay.com/de/cat-ruhig-schlafen-nicken-faulheit-2088903/
+  * https://pixabay.com/de/cat-traum-katze-mit-traum-2119814/
+  * https://pixabay.com/de/cat-katzenartige-haustiere-tier-2065300/
+  * https://pixabay.com/de/cat-freund-tier-haustiere-636172/
+  * https://pixabay.com/de/cat-haustier-tier-aussehen-1728596/
+  * To add more: just copy image in pixabay-cats/ folder
 
 Feel free to fork, share & critize :-)
 
